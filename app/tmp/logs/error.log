@@ -1,0 +1,48 @@
+2013-01-20 04:22:13 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/snsway/app/View/Layouts/default.ctp, line 39]
+2013-01-20 04:22:13 Error: [FatalErrorException] syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 04:22:20 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/snsway/app/View/Layouts/default.ctp, line 39]
+2013-01-20 04:22:20 Error: [FatalErrorException] syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 04:22:41 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/snsway/app/View/Layouts/default.ctp, line 39]
+2013-01-20 04:22:41 Error: [FatalErrorException] syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 04:22:49 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/snsway/app/View/Layouts/default.ctp, line 39]
+2013-01-20 04:22:49 Error: [FatalErrorException] syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 04:23:22 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/snsway/app/View/Layouts/default.ctp, line 39]
+2013-01-20 04:23:22 Error: [FatalErrorException] syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 04:23:56 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/snsway/app/View/Layouts/default.ctp, line 39]
+2013-01-20 04:23:56 Error: [FatalErrorException] syntax error, unexpected '<'
+#0 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 39, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/snsway/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
